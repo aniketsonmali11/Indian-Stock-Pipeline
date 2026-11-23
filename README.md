@@ -6,6 +6,8 @@ for 5 major Indian companies via Alpha Vantage REST API, processes it using
 PySpark on Databricks following the Medallion Architecture (Bronze → Silver → Gold), 
 and visualizes business insights through a Tableau Public dashboard.
 
+Tableau Dashboard URL: https://public.tableau.com/app/profile/aniket.sonmali5355/viz/BSEStockAnalysis_17953283190260/BSEStockAnalytics
+
 ## Stocks Covered
 | Symbol | Company |
 | TCS.BSE | Tata Consultancy Services |
